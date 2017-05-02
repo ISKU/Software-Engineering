@@ -1,0 +1,15 @@
+table, tr, td {
+	padding : 20px;
+	text-align : center;	
+}
+
+input[type="radio"]:disabled  +label 
+{
+     color:pink;
+     text-decoration : line-through; 
+ 
+}
+
+#button {
+	margin : auto;
+} 

@@ -1,0 +1,45 @@
+#mainArea {
+	width: 100%;
+	margin: auto;
+	float: left;
+	display: inline-block;
+}
+
+#mainSearch {
+	width: 20%;
+}
+
+#mainPoster {
+	margin: -40px 380px;
+	width : 20%;
+}
+
+#tableSearch {
+	border: 1px solid white;
+	width: 90%;
+	margin: auto;
+	color: #405B79;
+	font-weight: bold;
+}
+
+#tablePoster {
+	border: 1px solid white;
+	width: 90%;
+	margin: 0px 0px 80px 0px;
+	color: #405B79;
+}
+
+#tablePoster td {
+	text-align: center;
+	padding: 8px 30px;
+	background-color: white;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: "arial", "나눔 고딕", "굴림";
+	color: #405B79;
+}
+
+#tablePoster td:hover {
+	background-color: #f5f5f5;
+	color: #77C7C5;
+}
